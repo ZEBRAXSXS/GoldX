@@ -1,0 +1,1 @@
+# GoldX - Telegram Mini App
