@@ -1,7 +1,7 @@
 {
   "url": "https://gold-x-flax.vercel.app",
   "name": "GoldX Market",
-  "iconUrl": "https://gold-x-flax.vercel.app/icon.png",
-  "termsOfUseUrl": "",
-  "privacyPolicyUrl": ""
+  "iconUrl": "https://gold-x-flax.vercel.app/public/icon.png",
+  "termsOfUseUrl": "https://gold-x-flax.vercel.app/terms",
+  "privacyPolicyUrl": "https://gold-x-flax.vercel.app/privacy"
 }
